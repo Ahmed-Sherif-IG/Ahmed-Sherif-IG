@@ -31,6 +31,12 @@ C++ data processing tool with candlestick visualization and prediction.
 ### 🎥 Computer Vision App
 Real-time webcam processing with face detection and image transformations.
 
+### 🌐 Event Management & Booking System  
+Full-stack web application built with Node.js, Express, and MySQL, supporting event creation, booking, and role-based access (organiser/attendee).
+
+### 🤖 AI Fitness Chatbot  
+Python-based chatbot using NLP techniques such as tokenization, lemmatization, sentiment analysis, and regex-based intent detection with personalized responses.
+
 ---
 
 ## 📈 Currently Learning
