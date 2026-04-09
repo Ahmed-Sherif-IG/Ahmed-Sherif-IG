@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**Ahmed-Sherif-IG/Ahmed-Sherif-IG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student at the University of London  
+💻 Passionate about building real-world software systems  
+🚀 Interested in AI, Data Science, and Software Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Skills
+
+- C++, JavaScript, Python  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Web Development (Node.js, Express, MySQL)  
+- Computer Vision & Image Processing  
+- Game Development (p5.js, Matter.js)  
+
+---
+
+## 🚀 Featured Projects
+
+### 🎱 Snooker Game
+Physics-based simulation using JavaScript and Matter.js with modular architecture and real-time interaction.
+
+### 💹 Trading Simulator
+C++ trading engine with order book, matching system, and wallet management.
+
+### 🌡 Weather Data Analyzer
+C++ data processing tool with candlestick visualization and prediction.
+
+### 🎥 Computer Vision App
+Real-time webcam processing with face detection and image transformations.
+
+---
+
+## 📈 Currently Learning
+
+- Machine Learning  
+- Artificial Intelligence  
+- Natural Language Processing  
+
+---
+
+## 📫 Contact
+
+- LinkedIn (coming soon)
